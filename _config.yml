@@ -13,11 +13,12 @@ title: Max Gordon's Portfolio # This is what shows up in the tab of the browser
 
 # Hero Section
 name: Max Gordon
-headline: headline message
+headline: Engineer, Problem Solver, Risk Taker
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Write an awesome intro and discuss your highlights and qualification. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I'm a mechanical engineering graduate that is excited to be a pioneer for the furture
+  # Write an awesome intro and discuss your highlights and qualification. You can edit this
+  # line in _config.yml. It will appear in your document head meta (for
+  # Google search results) and in your feed.xml site description.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/DSC04495.JPEG
@@ -32,7 +33,7 @@ resume-url: https://drive.google.com/file/d/1Ck2nWBgu-v8kOfIqAaa1AjFzBhpcXK08/vi
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
   linkedin: max-a-gordon   # https://www.linkedin.com/in/{your url slug} 
-  github: mgordon17    # https://github.com/{your url slug} 
+  github:     # https://github.com/{your url slug} 
   stackoverflow:       # https://stackoverflow.com/users/{your url slug}
   medium:            # https://medium.com/@{your url slug} 
   x-twitter:   # https://x.com/{your url slug} 
