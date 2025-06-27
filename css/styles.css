@@ -231,6 +231,7 @@ nav .mobile-nav {
     aspect-ratio: 1/1;
     object-fit: cover;
     border-radius: 50%;
+    object-position: -7em;
 }
 
 /* NAVIGATION ARROW */
