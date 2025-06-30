@@ -11,7 +11,7 @@ skills:
 - Visual Design
 - Thermal Simulation
 - Post-processing
-main-image: /IMG_2168.jpg
+main-image: /3DS.CO.RC Face.jpg
 ---
 ## Motivation
 
