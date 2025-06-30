@@ -1,9 +1,15 @@
 ---
 layout: post
-title: project title
-description:  short description of the project
+title: Titanium Rubik's Cube
+description:  A personalized custom rubik's cube that was 3D printed out of titanium during my time spent with 3D Systems in Summer 2022
 skills: 
-- skill 1
-- skill 2
+- 3D Printing
+- Additive Manufacturing
+- Direct Metal Printing
+- SolidWorks
+- 3DXpert
+- Visual Design
+- Thermal Simulation
+- Post-processing
 main-image: /project.webp 
 ---
