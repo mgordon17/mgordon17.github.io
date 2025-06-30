@@ -11,9 +11,9 @@ skills:
 - Visual Design
 - Thermal Simulation
 - Post-processing
-main-image: /3DS.CO.RC Face.jpg
+main-image: ./3DS.CO.RC Face.jpg
 ---
 ## Motivation
-
+I first started cubing back in middle school
 ## Process
 
