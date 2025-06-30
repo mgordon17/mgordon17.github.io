@@ -13,3 +13,7 @@ skills:
 - Post-processing
 main-image: /IMG_2168.jpg
 ---
+## Motivation
+
+## Process
+
