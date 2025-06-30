@@ -11,5 +11,5 @@ skills:
 - Visual Design
 - Thermal Simulation
 - Post-processing
-main-image: /project.webp 
+main-image: /IMG_2168.jpg
 ---
