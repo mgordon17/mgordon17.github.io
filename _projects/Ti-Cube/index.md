@@ -11,9 +11,10 @@ skills:
 - Visual Design
 - Thermal Simulation
 - Post-processing
-main-image: ./3DS.CO.RC Face.jpg
+main-image: ./3DS.CO.RC Face.jpeg
 ---
 ## Motivation
-I first started cubing back in middle school
+I first started cubing back in middle school and immeadiatly fell in love. As time went on, I always wanted to design my own cube, but I never had the skills, knowledge, and means to do so. Fast forward
+to my internship at 3D Systems.
 ## Process
 
