@@ -21,8 +21,12 @@ I first started cubing back in middle school and immediatly fell in love. As tim
 ## Process
 ### Planning
 Since I wanted my cube to be functional, I decided to base all of my dimensions on an old cube in my collection. The primary benefit of this being I could fit my pieces to a pre-existing core that required no maintenance. Typically, speedcubes require lubrication with use, but because I didn't anticipate solving my titanium cube that often, this wouldn't be a concern. This way, I could have the reliability and functionality of a normal cube, but still make a majority of it my own. 
-{% include image-gallery.html images="Core.png" height="400"%}
-<span style="font-size: 10px">"Valk 3 3x3 Core" from https://www.youtube.com/watch?v=L-HxUsX4bzQ</span>
+<figure>
+  <img src="Core.png" alt="Valk 3 3x3 Core" style="height:400px; justify-content: center">
+  <figcaption>Valk 3 3x3 Core from https://www.youtube.com/watch?v=L-HxUsX4bzQ</figcaption>
+</figure> 
+<!-- {% include image-gallery.html images="Core.png" height="400" %}
+<span style="font-size: 10px">"Valk 3 3x3 Core" from https://www.youtube.com/watch?v=L-HxUsX4bzQ</span> -->
 ### Modeling
 <!-- talk about modeling the pieces -->
 measured each different piece
