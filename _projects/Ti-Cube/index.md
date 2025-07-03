@@ -26,8 +26,8 @@ Since I wanted my cube to be functional, I decided to base all of my dimensions 
 
 ### Modeling and Design Choices
 <!-- talk about modeling the pieces -->
-On a Rubik's cube there are a total of 32 pieces that are broken down into three piece groups: corners, edges, and centers. The center pieces are made of two sub-pieces: the body and the cap; this is so you can adjust the tension provided by the springs in each center, thereby changing what the cube feels like as it turns. Since there are no differences other than that, I only had to model four different types of pieces instead of 32. 
-measured each different piece
+On a Rubik's cube there are a total of 32 pieces that are broken down into three piece groups: corners, edges, and centers. The center pieces are made of two sub-pieces: the body and the cap; this is so you can adjust the tension provided by the springs in each center, thereby changing what the cube feels like as it turns. Since there are no differences other than that, I only had to model four different types of pieces instead of 32.<!-- i dont really like how that sounds but whatever for now--> I took calipers and measured each type of piece, making sure to pay particular attention to the internal parts that mesh and flow over eachother. Next, I was able to translate my measurements into SolidWorks and model the four pieces. This allowed me to assemble them together  
+
 modeled in cad
 <!-- talk about my reasons for each piece also can make a joke about actually having to model 26 pieces, which is better than 32 but not as great as 4 -->
 Now that I had my model, I needed to design each face to make them unique. I felt that stickers wasted an chance to showcase the titanium and the capabilities of DMP; I also wanted to commemorate my summer. 
