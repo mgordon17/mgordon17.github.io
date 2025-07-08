@@ -36,7 +36,7 @@ I wanted to take the opportunity to design some thing personal about my time in 
 ### Printing
 <!-- can talk about 3dxpert build prep, how long it took, maybe include video of print, final build plate?, post processing -->
 
-### End Result
+## End Result
 
 {% include image-gallery.html images="3DS_CO_RC.jpeg" height="400" %}
 <span style="font-size: 10px"> Faces depicting the 3D Systems logo, a Colorado flag variant, and a Rock Climber </span>
