@@ -14,11 +14,10 @@ title: Max Gordon's Portfolio # This is what shows up in the tab of the browser
 # Hero Section
 name: Max Gordon
 headline: Engineer, Problem Solver, Risk Taker
-description: >- # dont remove this line. this will ignore all new lines until the next section
-  I'm a mechanical engineering graduate that is excited to be a pioneer for the furture #
-  ## Write an awesome intro and discuss your highlights and qualification. You can edit this
- # # line in _config.yml. It will appear in your document head meta (for
-  ## Google search results) and in your feed.xml site description.
+description: >- # dont remove this line. this will ignore all new lines until the next section. Write an awesome intro and discuss your highlights and qualification. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description. -->
+
+  I'm a mechanical engineering graduate with interests in aerospace and additive manufacturing that is excited to be a pioneer for the furture 
+  
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/DSC04495.JPEG
