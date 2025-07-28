@@ -1,9 +1,12 @@
 ---
 layout: post
-title: project title
-description:  short description of the project
+title: Prosthetic Arm
+description:  Prosthetic arm designed as a part of my undergraduate senior project.
 skills: 
-- skill 1
-- skill 2
+- Iterative Design
+- 3D Printing
+- Rapid Prototyping
+- 3D Scanning
+- CAD
 main-image: /project.webp 
 ---
